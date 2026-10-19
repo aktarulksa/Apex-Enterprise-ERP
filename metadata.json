@@ -1,0 +1,6 @@
+{
+  "name": "ApexERP - Automated Timesheet, Salary & Payroll System",
+  "description": "Enterprise ERP platform featuring automated employee timesheets, precision salary structures, monthly payroll automation with Saudi Labor & GOSI rules, payslips, loans, leave, and customizable print engines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
